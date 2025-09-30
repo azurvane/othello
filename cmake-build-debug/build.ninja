@@ -81,11 +81,17 @@ build libGameLogic.a: CXX_STATIC_LIBRARY_LINKER__GameLogic_Debug CMakeFiles/Game
 
 build cmake_object_order_depends_target_AiBot: phony || .
 
-build CMakeFiles/AiBot.dir/ai_bot/AiEngine.cpp.o: CXX_COMPILER__AiBot_unscanned_Debug /Users/apple/Documents/programing/porjects/othello/ai_bot/AiEngine.cpp || cmake_object_order_depends_target_AiBot
-  DEP_FILE = CMakeFiles/AiBot.dir/ai_bot/AiEngine.cpp.o.d
+build CMakeFiles/AiBot.dir/ai_bot/advance/AiEngine.cpp.o: CXX_COMPILER__AiBot_unscanned_Debug /Users/apple/Documents/programing/porjects/othello/ai_bot/advance/AiEngine.cpp || cmake_object_order_depends_target_AiBot
+  DEP_FILE = CMakeFiles/AiBot.dir/ai_bot/advance/AiEngine.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/AiBot.dir
-  OBJECT_FILE_DIR = CMakeFiles/AiBot.dir/ai_bot
+  OBJECT_FILE_DIR = CMakeFiles/AiBot.dir/ai_bot/advance
+
+build CMakeFiles/AiBot.dir/ai_bot/basic/greedy.cpp.o: CXX_COMPILER__AiBot_unscanned_Debug /Users/apple/Documents/programing/porjects/othello/ai_bot/basic/greedy.cpp || cmake_object_order_depends_target_AiBot
+  DEP_FILE = CMakeFiles/AiBot.dir/ai_bot/basic/greedy.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/AiBot.dir
+  OBJECT_FILE_DIR = CMakeFiles/AiBot.dir/ai_bot/basic
 
 
 # =============================================================================
@@ -95,7 +101,7 @@ build CMakeFiles/AiBot.dir/ai_bot/AiEngine.cpp.o: CXX_COMPILER__AiBot_unscanned_
 #############################################
 # Link the static library libAiBot.a
 
-build libAiBot.a: CXX_STATIC_LIBRARY_LINKER__AiBot_Debug CMakeFiles/AiBot.dir/ai_bot/AiEngine.cpp.o
+build libAiBot.a: CXX_STATIC_LIBRARY_LINKER__AiBot_Debug CMakeFiles/AiBot.dir/ai_bot/advance/AiEngine.cpp.o CMakeFiles/AiBot.dir/ai_bot/basic/greedy.cpp.o
   ARCH_FLAGS = -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles/AiBot.dir

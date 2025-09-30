@@ -152,7 +152,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "AiBot::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-AiBot-Debug-639987f37ffbfac2f3a6.json",
+					"jsonFile" : "target-AiBot-Debug-9bf5c3d7ac602bd5f8af.json",
 					"name" : "AiBot",
 					"projectIndex" : 0
 				},
@@ -166,14 +166,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "UnitTests::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-UnitTests-Debug-889ca9b9dc25ca2d01a7.json",
+					"jsonFile" : "target-UnitTests-Debug-96dc6de48f1ad5395804.json",
 					"name" : "UnitTests",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "display::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-display-Debug-4cf6d2e478aa86c3da7c.json",
+					"jsonFile" : "target-display-Debug-1574d5321142447ef6d5.json",
 					"name" : "display",
 					"projectIndex" : 0
 				},
@@ -208,7 +208,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "othello::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-othello-Debug-a57eb292ac83d0f8f140.json",
+					"jsonFile" : "target-othello-Debug-6d15ac00c0dc91d3b698.json",
 					"name" : "othello",
 					"projectIndex" : 0
 				}
