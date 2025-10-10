@@ -1,0 +1,1 @@
+/Users/apple/.swiftly/bin/clang++ -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/UnitTests.dir/test_Cases/phase1_test.cpp.o -o UnitTests  lib/libgtest_main.a libGameLogic.a lib/libgtest.a

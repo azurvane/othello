@@ -1,0 +1,26 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/apple/Documents/programing/porjects/othello/build/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/SFML/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/SFML/src/SFML/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/SFML/src/SFML/System/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/SFML/src/SFML/Window/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/SFML/src/SFML/Network/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/SFML/src/SFML/Graphics/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/_deps/freetype-build/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/_deps/harfbuzz-build/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/_deps/sheenbidi-build/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/SFML/src/SFML/Audio/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/_deps/ogg-build/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/_deps/flac-build/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/_deps/flac-build/src/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/_deps/flac-build/src/libFLAC/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/_deps/vorbis-build/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/_deps/vorbis-build/lib/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/googletest/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/googletest/googlemock/cmake_install.cmake",
+		"/Users/apple/Documents/programing/porjects/othello/build/lib/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

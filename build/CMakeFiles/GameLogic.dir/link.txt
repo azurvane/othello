@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGameLogic.a CMakeFiles/GameLogic.dir/game_logic/GameEngine.cpp.o
+/Users/apple/.swiftly/bin/llvm-ranlib libGameLogic.a

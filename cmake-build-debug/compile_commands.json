@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DSB_CONFIG_UNITY -I/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src/Headers -I/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src/Source -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics -o _deps/sheenbidi-build/CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.o -c /Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src/Source/SheenBidi.c",
+  "file": "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src/Source/SheenBidi.c",
+  "output": "_deps/sheenbidi-build/CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.o"
+}
+]
