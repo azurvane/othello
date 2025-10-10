@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/SFML/lib/libharfbuzzd.a CMakeFiles/harfbuzz.dir/src/harfbuzz.cc.o
+/Users/apple/.swiftly/bin/llvm-ranlib ../../lib/SFML/lib/libharfbuzzd.a

@@ -16,8 +16,3 @@ Move Greedy::SelectMove(GameEngine& engine) {
 
     return BestMove;
 }
-
-// void Greedy::PlayMove(GameEngine& engine) {
-//     Move move = SelectMove(engine);
-//     engine.Step(move);  // or whatever applies the move in your engine
-// }

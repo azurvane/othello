@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/SFML/lib/liboggd.a CMakeFiles/ogg.dir/Unity/unity_0_c.c.o
+/Users/apple/.swiftly/bin/llvm-ranlib ../../lib/SFML/lib/liboggd.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAiBot.a CMakeFiles/AiBot.dir/ai_bot/advance/AiEngine.cpp.o CMakeFiles/AiBot.dir/ai_bot/basic/greedy.cpp.o
+/Users/apple/.swiftly/bin/llvm-ranlib libAiBot.a
