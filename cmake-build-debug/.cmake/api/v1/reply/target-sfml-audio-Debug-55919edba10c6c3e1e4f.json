@@ -328,6 +328,14 @@
 	[
 		{
 			"backtrace" : 4,
+			"id" : "sfml-system::@a0857d3fa2d27435d485"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "ogg::@4e5ed7d02827854e35f8"
+		},
+		{
+			"backtrace" : 4,
 			"id" : "FLAC::@d572677c3819035d9b3d"
 		},
 		{
@@ -341,14 +349,6 @@
 		{
 			"backtrace" : 4,
 			"id" : "vorbisfile::@692b0ee2b61df6760d20"
-		},
-		{
-			"backtrace" : 4,
-			"id" : "sfml-system::@a0857d3fa2d27435d485"
-		},
-		{
-			"backtrace" : 4,
-			"id" : "ogg::@4e5ed7d02827854e35f8"
 		}
 	],
 	"folder" : 
