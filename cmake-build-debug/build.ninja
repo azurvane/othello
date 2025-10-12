@@ -99,6 +99,12 @@ build CMakeFiles/AiBot.dir/ai_bot/intermediate/tabular.cpp.o: CXX_COMPILER__AiBo
   OBJECT_DIR = CMakeFiles/AiBot.dir
   OBJECT_FILE_DIR = CMakeFiles/AiBot.dir/ai_bot/intermediate
 
+build CMakeFiles/AiBot.dir/ai_bot/SelectAIAgent.cpp.o: CXX_COMPILER__AiBot_unscanned_Debug /Users/apple/Documents/programing/porjects/othello/ai_bot/SelectAIAgent.cpp || cmake_object_order_depends_target_AiBot
+  DEP_FILE = CMakeFiles/AiBot.dir/ai_bot/SelectAIAgent.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/AiBot.dir
+  OBJECT_FILE_DIR = CMakeFiles/AiBot.dir/ai_bot
+
 
 # =============================================================================
 # Link build statements for STATIC_LIBRARY target AiBot
@@ -107,7 +113,7 @@ build CMakeFiles/AiBot.dir/ai_bot/intermediate/tabular.cpp.o: CXX_COMPILER__AiBo
 #############################################
 # Link the static library libAiBot.a
 
-build libAiBot.a: CXX_STATIC_LIBRARY_LINKER__AiBot_Debug CMakeFiles/AiBot.dir/ai_bot/advance/ActorCritic.cpp.o CMakeFiles/AiBot.dir/ai_bot/basic/greedy.cpp.o CMakeFiles/AiBot.dir/ai_bot/intermediate/tabular.cpp.o
+build libAiBot.a: CXX_STATIC_LIBRARY_LINKER__AiBot_Debug CMakeFiles/AiBot.dir/ai_bot/advance/ActorCritic.cpp.o CMakeFiles/AiBot.dir/ai_bot/basic/greedy.cpp.o CMakeFiles/AiBot.dir/ai_bot/intermediate/tabular.cpp.o CMakeFiles/AiBot.dir/ai_bot/SelectAIAgent.cpp.o
   ARCH_FLAGS = -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles/AiBot.dir
