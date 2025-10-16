@@ -5,9 +5,9 @@ message(VERBOSE "Executing patch step for vorbis")
 block(SCOPE_FOR VARIABLES)
 
 execute_process(
-  WORKING_DIRECTORY "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/vorbis-src"
+  WORKING_DIRECTORY "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/vorbis-src"
   COMMAND_ERROR_IS_FATAL LAST
-  COMMAND  [====[/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake]====] [====[-DVORBIS_DIR=/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/vorbis-src]====] [====[-P]====] [====[/Users/apple/Documents/programing/porjects/othello/lib/SFML/tools/vorbis/PatchVorbis.cmake]====]
+  COMMAND  [====[/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake]====] [====[-DVORBIS_DIR=/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/vorbis-src]====] [====[-P]====] [====[/Users/apple/Documents/programing/projects/othello/lib/SFML/tools/vorbis/PatchVorbis.cmake]====]
 )
 
 endblock()

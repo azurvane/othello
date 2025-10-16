@@ -43,7 +43,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fcolor-diagnostics"
 				}
 			],
 			"defines" : 
@@ -57,7 +57,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/include"
 				}
 			],
 			"language" : "CXX",

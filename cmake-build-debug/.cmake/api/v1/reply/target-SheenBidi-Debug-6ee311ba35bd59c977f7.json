@@ -49,7 +49,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics"
+					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fcolor-diagnostics"
 				}
 			],
 			"defines" : 
@@ -63,11 +63,11 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src/Headers"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-src/Headers"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src/Source"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-src/Source"
 				}
 			],
 			"language" : "C",

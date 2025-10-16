@@ -150,7 +150,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -fcolor-diagnostics"
 				},
 				{
 					"backtrace" : 7,
@@ -236,46 +236,46 @@
 			[
 				{
 					"backtrace" : 11,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/include"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/src"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/src"
 				},
 				{
 					"backtrace" : 12,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/stb_image"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/stb_image"
 				},
 				{
 					"backtrace" : 13,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/glad/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/glad/include"
 				},
 				{
 					"backtrace" : 14,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/qoi"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/qoi"
 				},
 				{
 					"backtrace" : 16,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src/Headers"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-src/Headers"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/freetype-build/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/freetype-build/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/freetype-src/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/freetype-src/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/harfbuzz-src/src"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/harfbuzz-src/src"
 				}
 			],
 			"language" : "CXX",

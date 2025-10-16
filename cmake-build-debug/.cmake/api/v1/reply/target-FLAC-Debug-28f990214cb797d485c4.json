@@ -142,7 +142,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-Wall -Wextra -Wstrict-prototypes -Wmissing-prototypes -Waggregate-return -Wcast-align -Wnested-externs -Wshadow -Wundef -Wmissing-declarations -Winline  -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics"
+					"fragment" : "-Wall -Wextra -Wstrict-prototypes -Wmissing-prototypes -Waggregate-return -Wcast-align -Wnested-externs -Wshadow -Wundef -Wmissing-declarations -Winline  -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fcolor-diagnostics"
 				},
 				{
 					"backtrace" : 5,
@@ -224,23 +224,23 @@
 			[
 				{
 					"backtrace" : 16,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/flac-src/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/flac-src/include"
 				},
 				{
 					"backtrace" : 17,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/flac-build"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/flac-build"
 				},
 				{
 					"backtrace" : 18,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/flac-src/src/libFLAC/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/flac-src/src/libFLAC/include"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/ogg-src/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/ogg-src/include"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/ogg-build/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/ogg-build/include"
 				}
 			],
 			"language" : "C",

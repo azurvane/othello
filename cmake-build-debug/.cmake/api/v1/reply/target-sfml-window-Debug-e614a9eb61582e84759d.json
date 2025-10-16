@@ -118,7 +118,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -fcolor-diagnostics"
 				},
 				{
 					"backtrace" : 6,
@@ -201,28 +201,28 @@
 				{
 					"backtrace" : 12,
 					"isSystem" : true,
-					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework"
+					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/OpenGL.framework"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 9,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/include"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/src"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/src"
 				},
 				{
 					"backtrace" : 10,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/glad/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/glad/include"
 				},
 				{
 					"backtrace" : 11,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/vulkan"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/vulkan"
 				}
 			],
 			"language" : "CXX",
@@ -263,7 +263,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++2a -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fvisibility-inlines-hidden -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++2a -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fvisibility-inlines-hidden -fcolor-diagnostics"
 				},
 				{
 					"backtrace" : 6,
@@ -346,28 +346,28 @@
 				{
 					"backtrace" : 12,
 					"isSystem" : true,
-					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework"
+					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/OpenGL.framework"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 9,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/include"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/src"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/src"
 				},
 				{
 					"backtrace" : 10,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/glad/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/glad/include"
 				},
 				{
 					"backtrace" : 11,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/vulkan"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/vulkan"
 				}
 			],
 			"language" : "OBJCXX",
@@ -402,7 +402,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fcolor-diagnostics"
 				},
 				{
 					"backtrace" : 6,
@@ -485,28 +485,28 @@
 				{
 					"backtrace" : 12,
 					"isSystem" : true,
-					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework"
+					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/OpenGL.framework"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 9,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/include"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/src"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/src"
 				},
 				{
 					"backtrace" : 10,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/glad/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/glad/include"
 				},
 				{
 					"backtrace" : 11,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/vulkan"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/vulkan"
 				}
 			],
 			"language" : "OBJC",

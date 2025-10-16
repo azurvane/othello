@@ -74,7 +74,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fvisibility=hidden -fcolor-diagnostics"
+					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fvisibility=hidden -fcolor-diagnostics"
 				}
 			],
 			"defines" : 
@@ -88,22 +88,22 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/freetype-build/include/freetype/config"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/freetype-build/include/freetype/config"
 				},
 				{
 					"backtrace" : 4,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/freetype-build/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/freetype-build/include"
 				},
 				{
 					"backtrace" : 4,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/freetype-src/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/freetype-src/include"
 				},
 				{
 					"backtrace" : 7,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/harfbuzz-src/src"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/harfbuzz-src/src"
 				}
 			],
 			"language" : "C",

@@ -99,7 +99,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -fcolor-diagnostics"
 				},
 				{
 					"backtrace" : 5,
@@ -181,16 +181,16 @@
 			[
 				{
 					"backtrace" : 8,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/include"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/src"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/src"
 				},
 				{
 					"backtrace" : 9,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/cpp-unicodelib"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/cpp-unicodelib"
 				}
 			],
 			"language" : "CXX",

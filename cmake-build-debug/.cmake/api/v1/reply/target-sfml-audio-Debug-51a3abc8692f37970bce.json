@@ -136,7 +136,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -fcolor-diagnostics"
 				},
 				{
 					"backtrace" : 6,
@@ -254,37 +254,37 @@
 			[
 				{
 					"backtrace" : 13,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/include"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/src"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/src"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/vorbis-src/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/vorbis-src/include"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/ogg-src/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/ogg-src/include"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/ogg-build/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/ogg-build/include"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/flac-src/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/flac-src/include"
 				},
 				{
 					"backtrace" : 14,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/miniaudio"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/miniaudio"
 				},
 				{
 					"backtrace" : 15,
 					"isSystem" : true,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML/extlibs/headers/minimp3"
+					"path" : "/Users/apple/Documents/programing/projects/othello/lib/SFML/extlibs/headers/minimp3"
 				}
 			],
 			"language" : "CXX",

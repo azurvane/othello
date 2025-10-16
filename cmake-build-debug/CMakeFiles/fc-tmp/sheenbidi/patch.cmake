@@ -5,9 +5,9 @@ message(VERBOSE "Executing patch step for sheenbidi")
 block(SCOPE_FOR VARIABLES)
 
 execute_process(
-  WORKING_DIRECTORY "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src"
+  WORKING_DIRECTORY "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-src"
   COMMAND_ERROR_IS_FATAL LAST
-  COMMAND  [====[/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake]====] [====[-DSHEENBIDI_DIR=/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src]====] [====[-P]====] [====[/Users/apple/Documents/programing/porjects/othello/lib/SFML/tools/sheenbidi/PatchSheenBidi.cmake]====]
+  COMMAND  [====[/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake]====] [====[-DSHEENBIDI_DIR=/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-src]====] [====[-P]====] [====[/Users/apple/Documents/programing/projects/othello/lib/SFML/tools/sheenbidi/PatchSheenBidi.cmake]====]
 )
 
 endblock()

@@ -57,22 +57,22 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics"
+					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fcolor-diagnostics"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/vorbis-src/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/vorbis-src/include"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/ogg-src/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/ogg-src/include"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/ogg-build/include"
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/ogg-build/include"
 				}
 			],
 			"language" : "C",

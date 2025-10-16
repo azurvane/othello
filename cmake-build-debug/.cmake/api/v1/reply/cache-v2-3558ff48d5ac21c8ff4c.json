@@ -119,7 +119,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/apple/Documents/programing/porjects/othello"
+			"value" : "/Users/apple/Documents/programing/projects/othello"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -938,25 +938,9 @@
 			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld"
 		},
 		{
-			"name" : "CMAKE_LIST_FILE_NAME",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Name of CMakeLists files to read"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "CMakeLists.txt"
-		},
-		{
 			"name" : "CMAKE_MAKE_PROGRAM",
 			"properties" : 
 			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
 				{
 					"name" : "HELPSTRING",
 					"value" : "No help, variable specified on the command line."
@@ -1090,6 +1074,22 @@
 			"value" : "CMAKE_OBJCOPY-NOTFOUND"
 		},
 		{
+			"name" : "CMAKE_OBJCXX_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "OBJCXX compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++"
+		},
+		{
 			"name" : "CMAKE_OBJCXX_FLAGS",
 			"properties" : 
 			[
@@ -1168,6 +1168,22 @@
 			],
 			"type" : "STRING",
 			"value" : "-O2 -g -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_OBJC_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "OBJC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang"
 		},
 		{
 			"name" : "CMAKE_OBJC_FLAGS",
@@ -1299,7 +1315,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk"
+			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -1312,18 +1328,6 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "1"
-		},
-		{
-			"name" : "CMAKE_PROJECT_COMPAT_VERSION",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
 		},
 		{
 			"name" : "CMAKE_PROJECT_DESCRIPTION",
@@ -1371,7 +1375,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : ""
+			"value" : "3.1.0"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION_MAJOR",
@@ -1383,7 +1387,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : ""
+			"value" : "3"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION_MINOR",
@@ -1395,7 +1399,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : ""
+			"value" : "1"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION_PATCH",
@@ -1407,7 +1411,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : ""
+			"value" : "0"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION_TWEAK",
@@ -2223,7 +2227,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps"
 		},
 		{
 			"name" : "FETCHCONTENT_FULLY_DISCONNECTED",
@@ -2415,7 +2419,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/lib/libiconv.tbd][/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include][v()]"
+			"value" : "[/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/usr/lib/libiconv.tbd][/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/usr/include][v()]"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_OpenGL",
@@ -2427,7 +2431,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework][/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework][cfound components: OpenGL ][v()]"
+			"value" : "[/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/OpenGL.framework][/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/OpenGL.framework][cfound components: OpenGL ][v()]"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_PkgConfig",
@@ -2475,7 +2479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/flac-build"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/flac-build"
 		},
 		{
 			"name" : "FLAC_IS_TOP_LEVEL",
@@ -2511,7 +2515,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/flac-src"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/flac-src"
 		},
 		{
 			"name" : "FLAC__CPU_ARM64",
@@ -2571,7 +2575,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "GITCOMMAND",
@@ -3267,7 +3271,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "INCLUDE_INTTYPES_H",
@@ -3403,7 +3407,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include"
+			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/usr/include"
 		},
 		{
 			"name" : "Iconv_IS_BUILT_IN",
@@ -3431,7 +3435,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/lib/libiconv.tbd"
+			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/usr/lib/libiconv.tbd"
 		},
 		{
 			"name" : "LONG_LONG_SIZE",
@@ -3531,7 +3535,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework"
+			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/OpenGL.framework"
 		},
 		{
 			"name" : "OPENGL_INCLUDE_DIR",
@@ -3547,7 +3551,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework"
+			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/OpenGL.framework"
 		},
 		{
 			"name" : "OPENGL_gl_LIBRARY",
@@ -3563,7 +3567,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework"
+			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/OpenGL.framework"
 		},
 		{
 			"name" : "OPENGL_glu_LIBRARY",
@@ -3579,7 +3583,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework"
+			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/OpenGL.framework"
 		},
 		{
 			"name" : "P4COMMAND",
@@ -3651,7 +3655,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/lib/SFML"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/lib/SFML"
 		},
 		{
 			"name" : "SFML_BUILD_AUDIO",
@@ -3724,30 +3728,6 @@
 			],
 			"type" : "BOOL",
 			"value" : "OFF"
-		},
-		{
-			"name" : "SFML_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "The directory containing a CMake configuration file for SFML."
-				}
-			],
-			"type" : "PATH",
-			"value" : "/opt/homebrew/lib/cmake/SFML"
-		},
-		{
-			"name" : "SFML_DOC_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to a file."
-				}
-			],
-			"type" : "PATH",
-			"value" : "/opt/homebrew/share/doc/SFML"
 		},
 		{
 			"name" : "SFML_ENABLE_PCH",
@@ -3843,7 +3823,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/lib/SFML"
+			"value" : "/Users/apple/Documents/programing/projects/othello/lib/SFML"
 		},
 		{
 			"name" : "SFML_USE_SYSTEM_DEPS",
@@ -3923,7 +3903,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-build"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-build"
 		},
 		{
 			"name" : "SheenBidi_IS_TOP_LEVEL",
@@ -3947,7 +3927,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-src"
 		},
 		{
 			"name" : "UINT16_SIZE",
@@ -4127,7 +4107,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/freetype-build"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/freetype-build"
 		},
 		{
 			"name" : "freetype_IS_TOP_LEVEL",
@@ -4151,7 +4131,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/freetype-src"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/freetype-src"
 		},
 		{
 			"name" : "generated_dir",
@@ -4163,7 +4143,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/lib/googletest/googletest/generated"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/lib/googletest/googletest/generated"
 		},
 		{
 			"name" : "gmock_BINARY_DIR",
@@ -4175,7 +4155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/lib/googletest/googlemock"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/lib/googletest/googlemock"
 		},
 		{
 			"name" : "gmock_IS_TOP_LEVEL",
@@ -4199,7 +4179,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/lib/googletest/googlemock"
+			"value" : "/Users/apple/Documents/programing/projects/othello/lib/googletest/googlemock"
 		},
 		{
 			"name" : "gmock_build_tests",
@@ -4227,7 +4207,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/lib/googletest"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/lib/googletest"
 		},
 		{
 			"name" : "googletest-distribution_IS_TOP_LEVEL",
@@ -4251,7 +4231,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/lib/googletest"
+			"value" : "/Users/apple/Documents/programing/projects/othello/lib/googletest"
 		},
 		{
 			"name" : "gtest_BINARY_DIR",
@@ -4263,7 +4243,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/lib/googletest/googletest"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/lib/googletest/googletest"
 		},
 		{
 			"name" : "gtest_IS_TOP_LEVEL",
@@ -4287,7 +4267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/lib/googletest/googletest"
+			"value" : "/Users/apple/Documents/programing/projects/othello/lib/googletest/googletest"
 		},
 		{
 			"name" : "gtest_build_samples",
@@ -4379,7 +4359,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/harfbuzz-build"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/harfbuzz-build"
 		},
 		{
 			"name" : "harfbuzz_IS_TOP_LEVEL",
@@ -4403,7 +4383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/harfbuzz-src"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/harfbuzz-src"
 		},
 		{
 			"name" : "libogg_BINARY_DIR",
@@ -4415,7 +4395,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/ogg-build"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/ogg-build"
 		},
 		{
 			"name" : "libogg_IS_TOP_LEVEL",
@@ -4439,7 +4419,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/ogg-src"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/ogg-src"
 		},
 		{
 			"name" : "othello_BINARY_DIR",
@@ -4451,7 +4431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug"
 		},
 		{
 			"name" : "othello_IS_TOP_LEVEL",
@@ -4475,7 +4455,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello"
+			"value" : "/Users/apple/Documents/programing/projects/othello"
 		},
 		{
 			"name" : "targets_export_name",
@@ -4499,7 +4479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/vorbis-build"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/vorbis-build"
 		},
 		{
 			"name" : "vorbis_IS_TOP_LEVEL",
@@ -4535,7 +4515,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/vorbis-src"
+			"value" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/vorbis-src"
 		},
 		{
 			"name" : "vorbisenc_LIB_DEPENDS",

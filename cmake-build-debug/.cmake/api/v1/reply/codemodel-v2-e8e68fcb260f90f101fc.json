@@ -591,7 +591,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "AiBot::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-AiBot-Debug-f9013d0c155fced8879e.json",
+					"jsonFile" : "target-AiBot-Debug-730b0261591c84eb7616.json",
 					"name" : "AiBot",
 					"projectIndex" : 0
 				},
@@ -724,14 +724,14 @@
 				{
 					"directoryIndex" : 14,
 					"id" : "FLAC::@d572677c3819035d9b3d",
-					"jsonFile" : "target-FLAC-Debug-c2885169d0c57fbc0e34.json",
+					"jsonFile" : "target-FLAC-Debug-28f990214cb797d485c4.json",
 					"name" : "FLAC",
 					"projectIndex" : 6
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "GameLogic::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GameLogic-Debug-6a276b5913d1ec115dc1.json",
+					"jsonFile" : "target-GameLogic-Debug-05f0712359234caee6c2.json",
 					"name" : "GameLogic",
 					"projectIndex" : 0
 				},
@@ -808,133 +808,133 @@
 				{
 					"directoryIndex" : 9,
 					"id" : "SheenBidi::@abdbacd89c8133eee2b6",
-					"jsonFile" : "target-SheenBidi-Debug-53403938b76e576b34b8.json",
+					"jsonFile" : "target-SheenBidi-Debug-6ee311ba35bd59c977f7.json",
 					"name" : "SheenBidi",
 					"projectIndex" : 4
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "UnitTests::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-UnitTests-Debug-a366513e82889c6ab048.json",
+					"jsonFile" : "target-UnitTests-Debug-75004115eaf58bb7ed62.json",
 					"name" : "UnitTests",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "display::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-display-Debug-a204deac319a1d5a27cd.json",
+					"jsonFile" : "target-display-Debug-a874b0b71baf0ae88292.json",
 					"name" : "display",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 7,
 					"id" : "freetype::@d06f9f5ffc3cc0b4bd77",
-					"jsonFile" : "target-freetype-Debug-e0d6f561141d9db5ca97.json",
+					"jsonFile" : "target-freetype-Debug-5fc22d21dc89852f0add.json",
 					"name" : "freetype",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 18,
 					"id" : "gmock::@7712283c01f504ef6d93",
-					"jsonFile" : "target-gmock-Debug-199526a1fd620926ccf2.json",
+					"jsonFile" : "target-gmock-Debug-52e581b51828e1978451.json",
 					"name" : "gmock",
 					"projectIndex" : 9
 				},
 				{
 					"directoryIndex" : 18,
 					"id" : "gmock_main::@7712283c01f504ef6d93",
-					"jsonFile" : "target-gmock_main-Debug-d2f800de5e518c298bf2.json",
+					"jsonFile" : "target-gmock_main-Debug-89341af7a1d650d8e82d.json",
 					"name" : "gmock_main",
 					"projectIndex" : 9
 				},
 				{
 					"directoryIndex" : 19,
 					"id" : "gtest::@7e3677ed2a4dc8c8eb88",
-					"jsonFile" : "target-gtest-Debug-519b61c5ec233b0e6435.json",
+					"jsonFile" : "target-gtest-Debug-b727649a3294dc97a910.json",
 					"name" : "gtest",
 					"projectIndex" : 10
 				},
 				{
 					"directoryIndex" : 19,
 					"id" : "gtest_main::@7e3677ed2a4dc8c8eb88",
-					"jsonFile" : "target-gtest_main-Debug-e20060fe3d580e76db7f.json",
+					"jsonFile" : "target-gtest_main-Debug-eac1f6d2c5e64540ee1d.json",
 					"name" : "gtest_main",
 					"projectIndex" : 10
 				},
 				{
 					"directoryIndex" : 8,
 					"id" : "harfbuzz::@0205adea4b0616362521",
-					"jsonFile" : "target-harfbuzz-Debug-57a9c23cab76220587d6.json",
+					"jsonFile" : "target-harfbuzz-Debug-524ea999ae2b35267e14.json",
 					"name" : "harfbuzz",
 					"projectIndex" : 3
 				},
 				{
 					"directoryIndex" : 11,
 					"id" : "ogg::@4e5ed7d02827854e35f8",
-					"jsonFile" : "target-ogg-Debug-3b89628001dcf9f13c51.json",
+					"jsonFile" : "target-ogg-Debug-bd1cac234728b721f7e6.json",
 					"name" : "ogg",
 					"projectIndex" : 5
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "othello::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-othello-Debug-1bf4eaaa750a46577930.json",
+					"jsonFile" : "target-othello-Debug-1d6c6caf5379097848f7.json",
 					"name" : "othello",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 10,
 					"id" : "sfml-audio::@2c88909a109778213ad3",
-					"jsonFile" : "target-sfml-audio-Debug-55919edba10c6c3e1e4f.json",
+					"jsonFile" : "target-sfml-audio-Debug-51a3abc8692f37970bce.json",
 					"name" : "sfml-audio",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 6,
 					"id" : "sfml-graphics::@05826a7f30b7c69d94d4",
-					"jsonFile" : "target-sfml-graphics-Debug-a181e0745feddd06e6c9.json",
+					"jsonFile" : "target-sfml-graphics-Debug-39f2912cbfbbd2931c11.json",
 					"name" : "sfml-graphics",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 5,
 					"id" : "sfml-network::@c3d7f79628bafd5c7994",
-					"jsonFile" : "target-sfml-network-Debug-c2f91265f7f2e9e5bb23.json",
+					"jsonFile" : "target-sfml-network-Debug-b31b2156e211958111e2.json",
 					"name" : "sfml-network",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "sfml-system::@a0857d3fa2d27435d485",
-					"jsonFile" : "target-sfml-system-Debug-47b3668da13c00d3e487.json",
+					"jsonFile" : "target-sfml-system-Debug-6edde1f5fd913ec2be94.json",
 					"name" : "sfml-system",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "sfml-window::@662453be02e81ddd067b",
-					"jsonFile" : "target-sfml-window-Debug-7fc9b4a8bc99c333b5e8.json",
+					"jsonFile" : "target-sfml-window-Debug-e614a9eb61582e84759d.json",
 					"name" : "sfml-window",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 16,
 					"id" : "vorbis::@692b0ee2b61df6760d20",
-					"jsonFile" : "target-vorbis-Debug-d7dd958b251d1dd7c0f1.json",
+					"jsonFile" : "target-vorbis-Debug-3128d9ca661e190fa72c.json",
 					"name" : "vorbis",
 					"projectIndex" : 7
 				},
 				{
 					"directoryIndex" : 16,
 					"id" : "vorbisenc::@692b0ee2b61df6760d20",
-					"jsonFile" : "target-vorbisenc-Debug-22ad11662f6d488b6240.json",
+					"jsonFile" : "target-vorbisenc-Debug-1c6eb62d577d743038f0.json",
 					"name" : "vorbisenc",
 					"projectIndex" : 7
 				},
 				{
 					"directoryIndex" : 16,
 					"id" : "vorbisfile::@692b0ee2b61df6760d20",
-					"jsonFile" : "target-vorbisfile-Debug-11186032aeff65bf46c3.json",
+					"jsonFile" : "target-vorbisfile-Debug-2a0d8b3d3ea4c8881289.json",
 					"name" : "vorbisfile",
 					"projectIndex" : 7
 				}
@@ -944,8 +944,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug",
-		"source" : "/Users/apple/Documents/programing/porjects/othello"
+		"build" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug",
+		"source" : "/Users/apple/Documents/programing/projects/othello"
 	},
 	"version" : 
 	{
