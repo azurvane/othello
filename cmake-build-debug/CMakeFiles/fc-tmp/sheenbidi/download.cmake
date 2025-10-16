@@ -4,6 +4,6 @@ message(VERBOSE "Executing download step for sheenbidi")
 
 block(SCOPE_FOR VARIABLES)
 
-include("/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/CMakeFiles/fc-tmp/sheenbidi/sheenbidi-gitclone.cmake")
+include("/Users/apple/Documents/programing/projects/othello/cmake-build-debug/CMakeFiles/fc-tmp/sheenbidi/sheenbidi-gitclone.cmake")
 
 endblock()

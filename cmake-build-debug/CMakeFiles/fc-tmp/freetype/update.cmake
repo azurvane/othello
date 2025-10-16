@@ -4,6 +4,6 @@ message(VERBOSE "Executing update step for freetype")
 
 block(SCOPE_FOR VARIABLES)
 
-include("/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/CMakeFiles/fc-tmp/freetype/freetype-gitupdate.cmake")
+include("/Users/apple/Documents/programing/projects/othello/cmake-build-debug/CMakeFiles/fc-tmp/freetype/freetype-gitupdate.cmake")
 
 endblock()

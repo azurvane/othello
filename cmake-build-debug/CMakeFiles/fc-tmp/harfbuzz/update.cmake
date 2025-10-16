@@ -4,6 +4,6 @@ message(VERBOSE "Executing update step for harfbuzz")
 
 block(SCOPE_FOR VARIABLES)
 
-include("/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/CMakeFiles/fc-tmp/harfbuzz/harfbuzz-gitupdate.cmake")
+include("/Users/apple/Documents/programing/projects/othello/cmake-build-debug/CMakeFiles/fc-tmp/harfbuzz/harfbuzz-gitupdate.cmake")
 
 endblock()

@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src
-BuildDirectory: /Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-build
+SourceDirectory: /Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-src
+BuildDirectory: /Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake" "/Users/apple/Documents/programing/porjects/othello/cmake-build-debug/_deps/sheenbidi-src"
+ConfigureCommand: "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake" "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/sheenbidi-src"
 MakeCommand: /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
@@ -64,7 +64,7 @@ UpdateType: git
 
 # Compiler info
 Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
-CompilerVersion: 17.0.0.17000013
+CompilerVersion: 17.0.0.17000319
 
 # Dynamic analysis (MemCheck)
 PurifyCommand: 
