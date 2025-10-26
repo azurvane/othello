@@ -815,7 +815,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "UnitTests::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-UnitTests-Debug-75004115eaf58bb7ed62.json",
+					"jsonFile" : "target-UnitTests-Debug-0a40f2e104d526baf765.json",
 					"name" : "UnitTests",
 					"projectIndex" : 0
 				},
@@ -878,7 +878,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "othello::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-othello-Debug-1d6c6caf5379097848f7.json",
+					"jsonFile" : "target-othello-Debug-56f05af4edae963c72d7.json",
 					"name" : "othello",
 					"projectIndex" : 0
 				},

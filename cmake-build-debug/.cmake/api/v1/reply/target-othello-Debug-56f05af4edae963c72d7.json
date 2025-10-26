@@ -123,6 +123,18 @@
 	[
 		{
 			"backtrace" : 2,
+			"id" : "GameLogic::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "AiBot::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "display::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
 			"id" : "sfml-system::@a0857d3fa2d27435d485"
 		},
 		{
@@ -140,18 +152,6 @@
 		{
 			"backtrace" : 2,
 			"id" : "harfbuzz::@0205adea4b0616362521"
-		},
-		{
-			"backtrace" : 2,
-			"id" : "GameLogic::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 2,
-			"id" : "AiBot::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 2,
-			"id" : "display::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "othello::@6890427a1f51a3e7e1df",
