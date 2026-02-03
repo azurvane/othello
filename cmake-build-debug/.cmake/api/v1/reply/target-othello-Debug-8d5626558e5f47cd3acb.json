@@ -75,7 +75,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -mmacosx-version-min=26.0 -fcolor-diagnostics"
 				}
 			],
 			"defines" : 
@@ -123,11 +123,11 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "AiBot::@6890427a1f51a3e7e1df"
+			"id" : "GameLogic::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "GameLogic::@6890427a1f51a3e7e1df"
+			"id" : "AiBot::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,

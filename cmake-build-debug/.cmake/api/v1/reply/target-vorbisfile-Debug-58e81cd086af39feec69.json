@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lib/SFML/lib/liboggd.a"
+			"path" : "lib/SFML/lib/libvorbisfiled.a"
 		}
 	],
 	"backtrace" : 1,
@@ -13,11 +13,12 @@
 		[
 			"add_library",
 			"install",
+			"target_link_libraries",
 			"target_include_directories"
 		],
 		"files" : 
 		[
-			"cmake-build-debug/_deps/ogg-src/CMakeLists.txt"
+			"cmake-build-debug/_deps/vorbis-src/lib/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -27,19 +28,25 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 93,
+				"line" : 79,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 122,
+				"line" : 117,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 95,
+				"line" : 113,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 102,
 				"parent" : 0
 			}
 		]
@@ -50,11 +57,15 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -fcolor-diagnostics"
+					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -mmacosx-version-min=26.0 -fcolor-diagnostics"
 				}
 			],
 			"includes" : 
 			[
+				{
+					"backtrace" : 4,
+					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/vorbis-src/include"
+				},
 				{
 					"backtrace" : 3,
 					"path" : "/Users/apple/Documents/programing/projects/othello/cmake-build-debug/_deps/ogg-src/include"
@@ -71,11 +82,22 @@
 			]
 		}
 	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "ogg::@4e5ed7d02827854e35f8"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "vorbis::@692b0ee2b61df6760d20"
+		}
+	],
 	"folder" : 
 	{
 		"name" : "Dependencies"
 	},
-	"id" : "ogg::@4e5ed7d02827854e35f8",
+	"id" : "vorbisfile::@692b0ee2b61df6760d20",
 	"install" : 
 	{
 		"destinations" : 
@@ -90,12 +112,12 @@
 			"path" : "/usr/local"
 		}
 	},
-	"name" : "ogg",
-	"nameOnDisk" : "liboggd.a",
+	"name" : "vorbisfile",
+	"nameOnDisk" : "libvorbisfiled.a",
 	"paths" : 
 	{
-		"build" : "_deps/ogg-build",
-		"source" : "cmake-build-debug/_deps/ogg-src"
+		"build" : "_deps/vorbis-build/lib",
+		"source" : "cmake-build-debug/_deps/vorbis-src/lib"
 	},
 	"sourceGroups" : 
 	[
@@ -104,18 +126,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				4,
-				5
-			]
-		},
-		{
-			"name" : "Header Files",
-			"sourceIndexes" : 
-			[
-				1,
-				2,
-				3,
-				6
+				1
 			]
 		}
 	],
@@ -124,38 +135,13 @@
 		{
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
-			"path" : "cmake-build-debug/_deps/ogg-build/CMakeFiles/ogg.dir/Unity/unity_0_c.c",
+			"path" : "cmake-build-debug/_deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/Unity/unity_0_c.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "cmake-build-debug/_deps/ogg-build/include/ogg/config_types.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "cmake-build-debug/_deps/ogg-src/include/ogg/ogg.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "cmake-build-debug/_deps/ogg-src/include/ogg/os_types.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "cmake-build-debug/_deps/ogg-src/src/bitwise.c",
+			"path" : "cmake-build-debug/_deps/vorbis-src/lib/vorbisfile.c",
 			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "cmake-build-debug/_deps/ogg-src/src/framing.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "cmake-build-debug/_deps/ogg-src/src/crctable.h",
-			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "STATIC_LIBRARY"

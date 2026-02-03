@@ -11,7 +11,7 @@ BuildDirectory: /Users/apple/Documents/programing/projects/othello/cmake-build-d
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: Apples-MacBook-Pro-4.local
+Site: azurvane.local
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
 BuildName: Darwin-c++
@@ -64,7 +64,7 @@ UpdateType: git
 
 # Compiler info
 Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
-CompilerVersion: 17.0.0.17000319
+CompilerVersion: 17.0.0.17000603
 
 # Dynamic analysis (MemCheck)
 PurifyCommand: 
